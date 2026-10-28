@@ -1,0 +1,651 @@
+{
+  "search_metadata": {
+    "id": "6ae1f89893469535ba978d55",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/kCm9PKSQvONMX2QgWRDEboHfNFjERYZGZOaf_O8LCAM/6ae1f89893469535ba978d55.json",
+    "markdown_endpoint": "https://serpapi.com/searches/kCm9PKSQvONMX2QgWRDEboHfNFjERYZGZOaf_O8LCAM/6ae1f89893469535ba978d55.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/kCm9PKSQvONMX2QgWRDEboHfNFjERYZGZOaf_O8LCAM/6ae1f89893469535ba978d55.json_with_pixel_position",
+    "created_at": "2026-10-28 13:28:56 UTC",
+    "processed_at": "2026-10-28 13:28:56 UTC",
+    "google_url": "https://www.google.com/search?q=Dragons&oq=Dragons&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/kCm9PKSQvONMX2QgWRDEboHfNFjERYZGZOaf_O8LCAM/6ae1f89893469535ba978d55.html",
+    "total_time_taken": 0.85
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Dragons",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Dragons",
+    "total_results": 82,
+    "time_taken_displayed": 0.32,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+    "title": "Dragon",
+    "type": "Mythical creature",
+    "kgmid": "/m/02cp5",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/02cp5&hl=en-US&q=Dragon",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F02cp5&q=Dragon",
+    "header_images": [
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlU52rydF3Ww379iiFOH-6MCvWS4ux_gM5qh-9JbGDr5WVKYaMgKmmK5e6Vew9jB18a8d7pq42Ds99kJ0x3a6tuFR6RXjH9hyYcoQZkdZj&s=10",
+        "source": "https://www.legendkeeper.com/a-brief-history-of-dragons-in-d-d/"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT66os7Nb5bIucZ74VZYYipOp2rCuQKv70AEvI49UmvlbbMY5SMbk-hyZKezXUn9iafUn6eoz08dzR3xb-PSVzQ4zWBRJrRJ0sxJ01im3IKfA&s=10",
+        "source": "https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/55754-how-to-draw-dragons.html"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSmc-LLLQZGm_rrWiBHTQhXn3k8XBkO6_NCa6xCKiN9jWcNaMWeB6zNgvMsxQM0xKSoXj7OqBWHc6D4fFtFr57aFvMwhCBrLBDczDx7W6HXQ&s=10",
+        "source": "https://www.clipstudio.net/how-to-draw/archives/156800"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ_bi-cNYyqnffzoITW_mfLVxLqj42sGfpzympjQXeFvmCT9uiekS90PXcVqK-SA4LhbuvWqQKxoRg8tLeTFXuVZF1guehpon9_MLsFqpz&s=10",
+        "source": "https://www.livescience.com/25559-dragons.html"
+      }
+    ],
+    "description": "Dragons A dragon is a mythical creature found in the folklore of cultures throughout the world. It is roughly serpentine in form, and often possesses features drawn from different animals, such as wings and claws. In nearly all cultures, it is conceived of as a powerful and awe-inspiring creature.",
+    "description_highlighted_words": [],
+    "source": {
+      "name": " Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Dragon"
+    },
+    "people_also_search_for": [
+      {
+        "name": "Dinosaur",
+        "image": "https://serpapi.com/searches/6ae1f89893469535ba978d55/images/e2d8p3juO-sPtrOfwfdsxN7xmyUmBM8xnRh-eHKC3CZRExIfwXKPa-eiZbIYgi7N.jpeg",
+        "link": "https://www.google.com/search?sca_esv=10ab62e321bfdedb&sxsrf=APpeQnunBhoEZiC3iYxKgGqQc5gwDWp9Eg:1793194136774&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpq_Y4hpChsTOFUfHA84l_GgZFWPoF_tfT9WQxF3GBlqIwqJ0O-a5GRQSW8yIjpfUbCzVz95MTqXWuiK5jDWoj2KR_dB-g06_Aa2-tyUKlEkTQZMgVe7yk3JfTmpN9eg0CcbaTDPohwYMwshgntTd9SCBiC0j&q=Dinosaur&sa=X&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQs9oBKAB6BAgPEAY",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dinosaur&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpq_Y4hpChsTOFUfHA84l_GgZFWPoF_tfT9WQxF3GBlqIwqJ0O-a5GRQSW8yIjpfUbCzVz95MTqXWuiK5jDWoj2KR_dB-g06_Aa2-tyUKlEkTQZMgVe7yk3JfTmpN9eg0CcbaTDPohwYMwshgntTd9SCBiC0j"
+      },
+      {
+        "name": "Unicorn",
+        "image": "https://serpapi.com/searches/6ae1f89893469535ba978d55/images/e2d8p3juO-sPtrOfwfdsxN7xmyUmBM8xnRh-eHKC3CZoI7IjpVsxOTe99ZaF3yX3.jpeg",
+        "link": "https://www.google.com/search?sca_esv=10ab62e321bfdedb&sxsrf=APpeQnunBhoEZiC3iYxKgGqQc5gwDWp9Eg:1793194136774&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpgoLrFGK4fVeKj4u1jP35EHK70WuEsfo9WHjtRFJHrfLMv0tMYYN6WuuIy33-Z5SXn7eG1CqU-Vgd5_asmsuqN8BebH2xzdLlvtY5Xal4g1mSh7PVs5Ki00DXmTJvQLz2WJ_JtvLMRUnCzD2cyH-vaxW16dg&q=Unicorn&sa=X&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQs9oBKAB6BAgPEAo",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Unicorn&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpgoLrFGK4fVeKj4u1jP35EHK70WuEsfo9WHjtRFJHrfLMv0tMYYN6WuuIy33-Z5SXn7eG1CqU-Vgd5_asmsuqN8BebH2xzdLlvtY5Xal4g1mSh7PVs5Ki00DXmTJvQLz2WJ_JtvLMRUnCzD2cyH-vaxW16dg"
+      },
+      {
+        "name": "Dragonite",
+        "image": "https://serpapi.com/searches/6ae1f89893469535ba978d55/images/e2d8p3juO-sPtrOfwfdsxN7xmyUmBM8xnRh-eHKC3CbfsYu9pSukuDDJ6GSOngWd.jpeg",
+        "link": "https://www.google.com/search?sca_esv=10ab62e321bfdedb&sxsrf=APpeQnunBhoEZiC3iYxKgGqQc5gwDWp9Eg:1793194136774&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OM1zc9-O0nVqacsjbpiW_i-0RShNmEkHn8EgFgHxxSXbnpjWuNzYCDTjsOSDwSS7p_jv5N3y_B5Heekb-X9EDIJfVl68oWPVTnpChKtVKuMndvyGtu3zdNw9COrgRTr-wOI059cP8bA4o6mDUJITZZLUOI1WG&q=Dragonite&sa=X&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQs9oBKAB6BAgPEA4",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dragonite&si=APenkKllX05q7xl66dAosm6nb1iuMgV7Bv8meTZS-zIzIS3OM1zc9-O0nVqacsjbpiW_i-0RShNmEkHn8EgFgHxxSXbnpjWuNzYCDTjsOSDwSS7p_jv5N3y_B5Heekb-X9EDIJfVl68oWPVTnpChKtVKuMndvyGtu3zdNw9COrgRTr-wOI059cP8bA4o6mDUJITZZLUOI1WG"
+      },
+      {
+        "name": "Mermaid",
+        "image": "https://serpapi.com/searches/6ae1f89893469535ba978d55/images/e2d8p3juO-sPtrOfwfdsxN7xmyUmBM8xnRh-eHKC3CaLk8hT7KANwLTibu0AmM-P.jpeg",
+        "link": "https://www.google.com/search?sca_esv=10ab62e321bfdedb&sxsrf=APpeQnunBhoEZiC3iYxKgGqQc5gwDWp9Eg:1793194136774&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpuQ96qnyEmAGY5koMoRiogRtSINFvftbDA6vRmIBd-IvkgXTpw-FBZLF3tbxyc9HlfRzHIs0AqjZdsXN31yZzX5rjTVJTNAhQ_VwsESc96t3iI3Htl3du6otAIvE5Y_ypQebYsMuBjRXDV79_XNukLHcEr67&q=Mermaid&sa=X&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQs9oBKAB6BAgPEBI",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Mermaid&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpuQ96qnyEmAGY5koMoRiogRtSINFvftbDA6vRmIBd-IvkgXTpw-FBZLF3tbxyc9HlfRzHIs0AqjZdsXN31yZzX5rjTVJTNAhQ_VwsESc96t3iI3Htl3du6otAIvE5Y_ypQebYsMuBjRXDV79_XNukLHcEr67"
+      }
+    ],
+    "people_also_search_for_link": "https://www.google.com/search?sca_esv=10ab62e321bfdedb&sxsrf=APpeQnunBhoEZiC3iYxKgGqQc5gwDWp9Eg:1793194136774&q=Dragon&stick=H4sIAAAAAAAAAONgFuLQz9U3MEouMFWCs7QEgzNTUssTK4v9UitKgktSC4p_MYoFpOYX5KQqJOYU5ysUpyYWJWcopOUXLWJlcylKTM_Pu8UmyfDGoSIwl6-pc0m44SFW7UWbI5KCbdLDvh8HAH0KcrNnAAAA&sa=X&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQzO0BKAR6BAgPEBQ",
+    "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLQz9U3MEouMFWCs7QEgzNTUssTK4v9UitKgktSC4p_MYoFpOYX5KQqJOYU5ysUpyYWJWcopOUXLWJlcylKTM_Pu8UmyfDGoSIwl6-pc0m44SFW7UWbI5KCbdLDvh8HAH0KcrNnAAAA"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Dragons of Mythology | Fire Breathers & Wise Serpents",
+      "link": "https://www.youtube.com/watch?v=R9Gu7XNWEQc",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUGHInK1lFdKpXCH6UBu0HDDeru88Z5yF8Uk3UdU_wamzclSSZ21lRTA&s",
+      "channel": "Mythology Unleashed",
+      "duration": "19:53",
+      "platform": "YouTube",
+      "date": "Apr 24, 2024",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ0J0FE4cEz9NcNt0Jt4nycuTiMdDVyrVM9mQ"
+    },
+    {
+      "position": 2,
+      "title": "Each Dragon-like Creatures Explained",
+      "link": "https://www.youtube.com/watch?v=-quEs24A7mY",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0cpJQBV0eBV6P52oF0wlESvBEvz-_1MopolqWF1mPdz3Dx9W9SnuTEQ&s",
+      "channel": "Axtro Explainer",
+      "duration": "2:20",
+      "platform": "YouTube",
+      "date": "Feb 6, 2026",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS-35aGzgvqF4CAQy4ZoKYlv1XXlw1Bkdg_Rg"
+    },
+    {
+      "position": 3,
+      "title": "Dragon Detective Case File #001 | Amazing Mysteries for Kids",
+      "link": "https://www.youtube.com/watch?v=1dfgBpie8i8",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE0ZGbCes_IG6queEdNVdN3Ml1cxAefyAYvW-vszSRB9LsDg9bA-xpsg&s",
+      "channel": "STORIES, LEARNING, AND ADVENTURE!",
+      "duration": "9:19",
+      "platform": "YouTube",
+      "date": "Jul 25, 2026",
+      "snippet": "Dragon stories appear globally, symbolizing wisdom, strength, & good fortune. Some theories suggest ancient fossil discoveries inspired these legends."
+    },
+    {
+      "position": 4,
+      "title": "Famous Dragons From Mythology and Folklore Part 1",
+      "link": "https://www.youtube.com/watch?v=bI2jVZjtvMU",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSWpFmVaoUb2uujyMZ_WqyJ-fMSuYvOZyzaZLsm32A0XkgoFXYebGSnQ&s",
+      "channel": "WILD Mythology",
+      "duration": "14:04",
+      "platform": "YouTube",
+      "date": "Apr 15, 2022",
+      "snippet": "Discover 10 famous dragons like the Welsh Red Dragon, Beowulf's fire-breathing foe, and China's Azure Dragon, each with unique traits."
+    }
+  ],
+  "short_videos": [
+    {
+      "position": 1,
+      "title": "Where Did Dragons Come From? Dinosaur Bones and Ancient ... by Bird's Eye View on Facebook. Play on Facebook. 0:40",
+      "source": "Facebook",
+      "profile_name": "Bird's Eye View",
+      "extensions": [
+        "Bird's Eye View"
+      ],
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+      "duration": "0:40",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQdAc_SclMC6ugTBoD9bI9FPwBSM_mArYFjcg",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_vSkFA7j4fIGnfeHhyk-M0ZNQMXuWATGF96_tKmUHaCgbGESocdUIeUs&s=10",
+      "link": "https://www.facebook.com/birdsIviewblog/videos/-where-did-dragons-come-from-dragons-are-found-in-myths-from-cultures-all-over-t/840395188084426/"
+    },
+    {
+      "position": 2,
+      "title": "Dragons Were Real?! Ancient Myths and Modern Discoveries",
+      "source": "YouTube",
+      "profile_name": "Dragons World",
+      "extensions": [
+        "Dragons World"
+      ],
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "duration": "1:16",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTzLLyAGzgUhl26z5aCxZUXsHTIqVHEZHRKPw",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFF9X1dqxGC155wl09AmQCpOEZ-1cC1uUc7Idvm0bEIjI0MiN5qTbxYDQ&s=10",
+      "link": "https://www.youtube.com/watch?v=RzJga6U93_I"
+    },
+    {
+      "position": 3,
+      "title": "What do you know about dragons?",
+      "source": "YouTube",
+      "profile_name": "Catarina Hansson",
+      "extensions": [
+        "Catarina Hansson"
+      ],
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "duration": "1:04",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRxSIdoW1PMylCJSKdNa5NmtCujq2SrRSoz0Q",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwH4IqhmbnFXikHg6gVd9x58fsTjxmQS1NY6Fh8nT9aDzaLykW38ypN1k&s=10",
+      "link": "https://www.youtube.com/watch?v=jR1r7m7fxzE"
+    },
+    {
+      "position": 4,
+      "title": "Dragons aren't real... or are they? 🤔 In mythology and folklore ... by Obi Ryan on Facebook. Play on Facebook. 0:25",
+      "source": "Facebook",
+      "profile_name": "Obi Ryan",
+      "extensions": [
+        "Obi Ryan"
+      ],
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+      "duration": "0:25",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHJH-Uov_Zzw8OsEEzH11qbf78ic9DjUwq0aUpjVdwgukF8Nl6xcuIb90&s=10",
+      "link": "https://www.facebook.com/obi.ryan.5/videos/dragons-arent-real-or-are-they-in-mythology-and-folklore-dragons-are-legendary-c/1206326295040859/"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Have dragons ever been found?",
+      "type": "featured_snippet",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpEZG9aM2xKYUdkNFMwcDZTVmxMTkcxc2IydElSVkpEUnpCUVNrY3RiSGN6YkhZMFoyOTFVMlZWTlhOMWNrRjBUVU5LV25sSmNXOUVTbXh5UWpGbVR6VmhZVUZsYXpaNk9IWTBWMEZzYkY5MVkyUkNSV0ZNVDA1eVFSSVhiVkJxYUdGd1VHbE1kWHBWYTFCSlVHOU9URUZ6UVZrYUlrRkVjM0k1WmxGak5YWjRORFJWZDI4NWRqaGxSR2hsYWxWMk5XUlJaRkpzTFhjIiwiZmN2IjoiMyIsImVpIjoibVBqaGFwUGlMdXpVa1BJUG9OTEFzQVkiLCJxYyI6IkNnZGtjbUZuYjI1ekVBQTRBWDNGRGdFXyIsInF1ZXN0aW9uIjoiSGF2ZSBkcmFnb25zIGV2ZXIgYmVlbiBmb3VuZD8iLCJsayI6IkdoeG9ZWFpsSUdSeVlXZHZibk1nWlhabGNpQmlaV1Z1SUdadmRXNWsiLCJicyI6ImMzMk9NUXZDTUJTRWNjMGdCWEdKVlFfX2dYSFRJV3QzQi1kSTBpWmc4eVJKS19uM2xwWTZxZHZ4N3J0M3h5VGJWcW8zMEVFMTVDTk1id0x1eG5qVTFIa3R4WTZYOWdfQUxteFQwUXVha0tsRDdieEdzak11UmNtNV9XbXpLenZmckVwUXdZem5vMERLVHhOQjlhZlFlYlE1V1hwUWs2R0d2SFV4VWNoU3JQbnFTNENkMkg1ODZpSVVZdmJrY3p1TURUaE14RUdLZ2k4blBmdkY0ZzAiLCJpZCI6ImZjX21QamhhcFBpTHV6VWtQSVBvTkxBc0FZXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpEZG9aM2xKYUdkNFMwcDZTVmxMTkcxc2IydElSVkpEUnpCUVNrY3RiSGN6YkhZMFoyOTFVMlZWTlhOMWNrRjBUVU5LV25sSmNXOUVTbXh5UWpGbVR6VmhZVUZsYXpaNk9IWTBWMEZzYkY5MVkyUkNSV0ZNVDA1eVFSSVhiVkJxYUdGd1VHbE1kWHBWYTFCSlVHOU9URUZ6UVZrYUlrRkVjM0k1WmxGak5YWjRORFJWZDI4NWRqaGxSR2hsYWxWMk5XUlJaRkpzTFhjIiwiZmN2IjoiMyIsImVpIjoibVBqaGFwUGlMdXpVa1BJUG9OTEFzQVkiLCJxYyI6IkNnZGtjbUZuYjI1ekVBQTRBWDNGRGdFXyIsInF1ZXN0aW9uIjoiSGF2ZSBkcmFnb25zIGV2ZXIgYmVlbiBmb3VuZD8iLCJsayI6IkdoeG9ZWFpsSUdSeVlXZHZibk1nWlhabGNpQmlaV1Z1SUdadmRXNWsiLCJicyI6ImMzMk9NUXZDTUJTRWNjMGdCWEdKVlFfX2dYSFRJV3QzQi1kSTBpWmc4eVJKS19uM2xwWTZxZHZ4N3J0M3h5VGJWcW8zMEVFMTVDTk1id0x1eG5qVTFIa3R4WTZYOWdfQUxteFQwUXVha0tsRDdieEdzak11UmNtNV9XbXpLenZmckVwUXdZem5vMERLVHhOQjlhZlFlYlE1V1hwUWs2R0d2SFV4VWNoU3JQbnFTNENkMkg1ODZpSVVZdmJrY3p1TURUaE14RUdLZ2k4blBmdkY0ZzAiLCJpZCI6ImZjX21QamhhcFBpTHV6VWtQSVBvTkxBc0FZXzEifQ%3D%3D"
+    },
+    {
+      "question": "How do you find the dragon?",
+      "type": "featured_snippet",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpEZG9aM2xKYUdkNFMwcDZTVmxMTkcxc2IydElSVkpEUnpCUVNrY3RiSGN6YkhZMFoyOTFVMlZWTlhOMWNrRjBUVU5LV25sSmNXOUVTbXh5UWpGbVR6VmhZVUZsYXpaNk9IWTBWMEZzYkY5MVkyUkNSV0ZNVDA1eVFSSVhiVkJxYUdGd1VHbE1kWHBWYTFCSlVHOU9URUZ6UVZrYUlrRkVjM0k1WmxGak5YWjRORFJWZDI4NWRqaGxSR2hsYWxWMk5XUlJaRkpzTFhjIiwiZmN2IjoiMyIsImVpIjoibVBqaGFwUGlMdXpVa1BJUG9OTEFzQVkiLCJxYyI6IkNnZGtjbUZuYjI1ekVBQTRBWDNGRGdFXyIsInF1ZXN0aW9uIjoiSG93IGRvIHlvdSBmaW5kIHRoZSBkcmFnb24/IiwibGsiOiJHaHBvYjNjZ1pHOGdlVzkxSUdacGJtUWdkR2hsSUdSeVlXZHZiZyIsImJzIjoiYzMyT01RdkNNQlNFY2MwZ0JYR0pWUV9fZ1hIVElXdDNCLWRJMGlaZzh5UkpLX24zbHBZNnFkdng3cnQzeHlUYlZxbzMwRUUxNUNOTWJ3THV4bmpVMUhrdHhZNlg5Z19BTG14VDBRdWFrS2xEN2J4R3NqTXVSY201X1dtekt6dmZyRXBRd1l6bm8wREtUeE5COWFmUWViUTVXWHBRazZHR3ZIVXhVY2hTclBucVM0Q2QySDU4NmlJVVl2YmtjenVNRFRoTXhFR0tnaThuUGZ2RjRnMCIsImlkIjoiZmNfbVBqaGFwUGlMdXpVa1BJUG9OTEFzQVlfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpEZG9aM2xKYUdkNFMwcDZTVmxMTkcxc2IydElSVkpEUnpCUVNrY3RiSGN6YkhZMFoyOTFVMlZWTlhOMWNrRjBUVU5LV25sSmNXOUVTbXh5UWpGbVR6VmhZVUZsYXpaNk9IWTBWMEZzYkY5MVkyUkNSV0ZNVDA1eVFSSVhiVkJxYUdGd1VHbE1kWHBWYTFCSlVHOU9URUZ6UVZrYUlrRkVjM0k1WmxGak5YWjRORFJWZDI4NWRqaGxSR2hsYWxWMk5XUlJaRkpzTFhjIiwiZmN2IjoiMyIsImVpIjoibVBqaGFwUGlMdXpVa1BJUG9OTEFzQVkiLCJxYyI6IkNnZGtjbUZuYjI1ekVBQTRBWDNGRGdFXyIsInF1ZXN0aW9uIjoiSG93IGRvIHlvdSBmaW5kIHRoZSBkcmFnb24%2FIiwibGsiOiJHaHBvYjNjZ1pHOGdlVzkxSUdacGJtUWdkR2hsSUdSeVlXZHZiZyIsImJzIjoiYzMyT01RdkNNQlNFY2MwZ0JYR0pWUV9fZ1hIVElXdDNCLWRJMGlaZzh5UkpLX24zbHBZNnFkdng3cnQzeHlUYlZxbzMwRUUxNUNOTWJ3THV4bmpVMUhrdHhZNlg5Z19BTG14VDBRdWFrS2xEN2J4R3NqTXVSY201X1dtekt6dmZyRXBRd1l6bm8wREtUeE5COWFmUWViUTVXWHBRazZHR3ZIVXhVY2hTclBucVM0Q2QySDU4NmlJVVl2YmtjenVNRFRoTXhFR0tnaThuUGZ2RjRnMCIsImlkIjoiZmNfbVBqaGFwUGlMdXpVa1BJUG9OTEFzQVlfMSJ9"
+    },
+    {
+      "question": "What are the 12 types of dragons in mythology and history?",
+      "type": "featured_snippet",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpEZG9aM2xKYUdkNFMwcDZTVmxMTkcxc2IydElSVkpEUnpCUVNrY3RiSGN6YkhZMFoyOTFVMlZWTlhOMWNrRjBUVU5LV25sSmNXOUVTbXh5UWpGbVR6VmhZVUZsYXpaNk9IWTBWMEZzYkY5MVkyUkNSV0ZNVDA1eVFSSVhiVkJxYUdGd1VHbE1kWHBWYTFCSlVHOU9URUZ6UVZrYUlrRkVjM0k1WmxGak5YWjRORFJWZDI4NWRqaGxSR2hsYWxWMk5XUlJaRkpzTFhjIiwiZmN2IjoiMyIsImVpIjoibVBqaGFwUGlMdXpVa1BJUG9OTEFzQVkiLCJxYyI6IkNnZGtjbUZuYjI1ekVBQTRBWDNGRGdFXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIDEyIHR5cGVzIG9mIGRyYWdvbnMgaW4gbXl0aG9sb2d5IGFuZCBoaXN0b3J5PyIsImxrIjoiR2hNeE1pQjBlWEJsY3lCdlppQmtjbUZuYjI1eiIsImJzIjoiYzMyT01RdkNNQlNFY2MwZ0JYR0pWUV9fZ1hIVElXdDNCLWRJMGlaZzh5UkpLX24zbHBZNnFkdng3cnQzeHlUYlZxbzMwRUUxNUNOTWJ3THV4bmpVMUhrdHhZNlg5Z19BTG14VDBRdWFrS2xEN2J4R3NqTXVSY201X1dtekt6dmZyRXBRd1l6bm8wREtUeE5COWFmUWViUTVXWHBRazZHR3ZIVXhVY2hTclBucVM0Q2QySDU4NmlJVVl2YmtjenVNRFRoTXhFR0tnaThuUGZ2RjRnMCIsImlkIjoiZmNfbVBqaGFwUGlMdXpVa1BJUG9OTEFzQVlfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpEZG9aM2xKYUdkNFMwcDZTVmxMTkcxc2IydElSVkpEUnpCUVNrY3RiSGN6YkhZMFoyOTFVMlZWTlhOMWNrRjBUVU5LV25sSmNXOUVTbXh5UWpGbVR6VmhZVUZsYXpaNk9IWTBWMEZzYkY5MVkyUkNSV0ZNVDA1eVFSSVhiVkJxYUdGd1VHbE1kWHBWYTFCSlVHOU9URUZ6UVZrYUlrRkVjM0k1WmxGak5YWjRORFJWZDI4NWRqaGxSR2hsYWxWMk5XUlJaRkpzTFhjIiwiZmN2IjoiMyIsImVpIjoibVBqaGFwUGlMdXpVa1BJUG9OTEFzQVkiLCJxYyI6IkNnZGtjbUZuYjI1ekVBQTRBWDNGRGdFXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIDEyIHR5cGVzIG9mIGRyYWdvbnMgaW4gbXl0aG9sb2d5IGFuZCBoaXN0b3J5PyIsImxrIjoiR2hNeE1pQjBlWEJsY3lCdlppQmtjbUZuYjI1eiIsImJzIjoiYzMyT01RdkNNQlNFY2MwZ0JYR0pWUV9fZ1hIVElXdDNCLWRJMGlaZzh5UkpLX24zbHBZNnFkdng3cnQzeHlUYlZxbzMwRUUxNUNOTWJ3THV4bmpVMUhrdHhZNlg5Z19BTG14VDBRdWFrS2xEN2J4R3NqTXVSY201X1dtekt6dmZyRXBRd1l6bm8wREtUeE5COWFmUWViUTVXWHBRazZHR3ZIVXhVY2hTclBucVM0Q2QySDU4NmlJVVl2YmtjenVNRFRoTXhFR0tnaThuUGZ2RjRnMCIsImlkIjoiZmNfbVBqaGFwUGlMdXpVa1BJUG9OTEFzQVlfMSJ9"
+    },
+    {
+      "question": "What is a synonym for \"dragon\"?",
+      "type": "featured_snippet",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpEZG9aM2xKYUdkNFMwcDZTVmxMTkcxc2IydElSVkpEUnpCUVNrY3RiSGN6YkhZMFoyOTFVMlZWTlhOMWNrRjBUVU5LV25sSmNXOUVTbXh5UWpGbVR6VmhZVUZsYXpaNk9IWTBWMEZzYkY5MVkyUkNSV0ZNVDA1eVFSSVhiVkJxYUdGd1VHbE1kWHBWYTFCSlVHOU9URUZ6UVZrYUlrRkVjM0k1WmxGak5YWjRORFJWZDI4NWRqaGxSR2hsYWxWMk5XUlJaRkpzTFhjIiwiZmN2IjoiMyIsImVpIjoibVBqaGFwUGlMdXpVa1BJUG9OTEFzQVkiLCJxYyI6IkNnZGtjbUZuYjI1ekVBQTRBWDNGRGdFXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIHN5bm9ueW0gZm9yIFwiZHJhZ29uXCI/IiwibGsiOiJHZzVrY21GbmIyNGdjM2x1YjI1NWJRIiwiYnMiOiJjMzJPTVF2Q01CU0VjYzBnQlhHSlZRX19nWEhUSVd0M0ItZEkwaVpnOHlSSktfbjNscFk2cWR2eDdydDN4eVRiVnFvMzBFRTE1Q05NYndMdXhualUxSGt0eFk2WDlnX0FMbXhUMFF1YWtLbEQ3YnhHc2pNdVJjbTVfV216S3p2ZnJFcFF3WXpubzBES1R4TkI5YWZRZWJRNVdYcFFrNkdHdkhVeFVjaFNyUG5xUzRDZDJINTg2aUlVWXZia2N6dU1EVGhNeEVHS2dpOG5QZnZGNGcwIiwiaWQiOiJmY19tUGpoYXBQaUx1elVrUElQb05MQXNBWV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpEZG9aM2xKYUdkNFMwcDZTVmxMTkcxc2IydElSVkpEUnpCUVNrY3RiSGN6YkhZMFoyOTFVMlZWTlhOMWNrRjBUVU5LV25sSmNXOUVTbXh5UWpGbVR6VmhZVUZsYXpaNk9IWTBWMEZzYkY5MVkyUkNSV0ZNVDA1eVFSSVhiVkJxYUdGd1VHbE1kWHBWYTFCSlVHOU9URUZ6UVZrYUlrRkVjM0k1WmxGak5YWjRORFJWZDI4NWRqaGxSR2hsYWxWMk5XUlJaRkpzTFhjIiwiZmN2IjoiMyIsImVpIjoibVBqaGFwUGlMdXpVa1BJUG9OTEFzQVkiLCJxYyI6IkNnZGtjbUZuYjI1ekVBQTRBWDNGRGdFXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIHN5bm9ueW0gZm9yIFwiZHJhZ29uXCI%2FIiwibGsiOiJHZzVrY21GbmIyNGdjM2x1YjI1NWJRIiwiYnMiOiJjMzJPTVF2Q01CU0VjYzBnQlhHSlZRX19nWEhUSVd0M0ItZEkwaVpnOHlSSktfbjNscFk2cWR2eDdydDN4eVRiVnFvMzBFRTE1Q05NYndMdXhualUxSGt0eFk2WDlnX0FMbXhUMFF1YWtLbEQ3YnhHc2pNdVJjbTVfV216S3p2ZnJFcFF3WXpubzBES1R4TkI5YWZRZWJRNVdYcFFrNkdHdkhVeFVjaFNyUG5xUzRDZDJINTg2aUlVWXZia2N6dU1EVGhNeEVHS2dpOG5QZnZGNGcwIiwiaWQiOiJmY19tUGpoYXBQaUx1elVrUElQb05MQXNBWV8xIn0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "J31rUXiczVbdcqpIEH6AfY7lKpEfMWqqqFMDgkJEnSQmqzcUAhkEcRRQYu7Ou-xT7avszQ4_Khg12XOz2-UwzExPd09Pf3z-_HMxX_p__fa3G8er6J6mkySpIYzRwqlZOKDNaLe06De8iELL_RHhTWg5c1uw3BAHDpWPi1ENz6jdVqhTViQwlDMXgpHnmqvRvL_5GPsjdYQHfRCBCZXZFIyZGTkecfnuRbRBk4f_e71DBrWo5ixrfKK3GEdroye5xjFcvTakzYAogP9AoAwgSH_AB_I1RZE09A2DqZF5alE9mS42w8OUTpqaqqnZpHTRuqTm-2AabWEC9W71WzghceFjfFcEVqxH2ZNMSVkMQJbhuU1XRN47LTaqV3QvLRchP-zHSWX1crLlbnUMgQJ4YOWnqZgGxZx6zHseyTj3MEItCCx1_tXFIiA-g56PwfUaKVw_jlsH_5NuRFzTNiL1zdCzkHQsPbdcK3sJo7Tspec2g7svxghNrKDrueKmM-J8_n0azqfD58BCtDUjegts2o5tuAbzIxuzHNtg2vVm6ybDmxUdABeVAafpAzC2bW82YGr9msju0SZVDnNyQfDh7I0hEWYJvZQvDZxczbHcVbHkDhbvCbHIpBg4SavSS6taPGzmgawDJVFK6CldtnwZbScxpGo4H6q4tCaVtCURAXl8ZncqYrVGM9FKiocwYG_vUyxC6exjOC0iGfh5_PvNemU5zbgMMKkohZSTBB4SNY842QeH1kDDqn88BjpYJvkluzN_olo9z3s5BBmIUqolDWGqKSFfTKPKTMm5JZh_fNK7k04K4PFzUrLjKKAPThL4fUFffVMKEcEeVicoKaNLaZjs0Hts6qI24LAtjnrsZs29BfLrEziPJhzM_gV_Wf9PvO3ZDRbsdhVv6Bt4y9jtCt7g4XFgNwwzdsMX8ableDvPbnyuVGa3M3iDqIy3nN28S-z2C3hTr-MNHyx_xtvDebyhi3jL2K2CN0XiUYXdjngrs9sRb7_Ibp_K4oycZ7cMfk7eValu46GLlKdMOw54aTWautJqQnXdlR619WRqvD404JeU9xbE94FpL26MuX0vclq8s28MMoHvHZtaC53QRHgZUcEixAJj8mybd94992O1WBnDqSFxTX_d78uaGLvskmngrRGr3WFicW_OU6trbtv64v2PyLXBrsmEEMRia_lx29u0bM93P4KgNdYel04ga6tGXVf6cLfe8V69a7Z7q2Bpbvnopb6WIv05wT4zjcPecLCYK-ssmkiImd7dBsX91zuLCkJLIJfIIzCA4BUAM6UYDYnkXxFppO-Tvk-qEfYmAHYQaZiknIos03CircAy5uyOc-ocO3sjqZpRAYp3K4FnqWgZCuw_yQhi6g",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=J31rUXiczVbdcqpIEH6AfY7lKpEfMWqqqFMDgkJEnSQmqzcUAhkEcRRQYu7Ou-xT7avszQ4_Khg12XOz2-UwzExPd09Pf3z-_HMxX_p__fa3G8er6J6mkySpIYzRwqlZOKDNaLe06De8iELL_RHhTWg5c1uw3BAHDpWPi1ENz6jdVqhTViQwlDMXgpHnmqvRvL_5GPsjdYQHfRCBCZXZFIyZGTkecfnuRbRBk4f_e71DBrWo5ixrfKK3GEdroye5xjFcvTakzYAogP9AoAwgSH_AB_I1RZE09A2DqZF5alE9mS42w8OUTpqaqqnZpHTRuqTm-2AabWEC9W71WzghceFjfFcEVqxH2ZNMSVkMQJbhuU1XRN47LTaqV3QvLRchP-zHSWX1crLlbnUMgQJ4YOWnqZgGxZx6zHseyTj3MEItCCx1_tXFIiA-g56PwfUaKVw_jlsH_5NuRFzTNiL1zdCzkHQsPbdcK3sJo7Tspec2g7svxghNrKDrueKmM-J8_n0azqfD58BCtDUjegts2o5tuAbzIxuzHNtg2vVm6ybDmxUdABeVAafpAzC2bW82YGr9msju0SZVDnNyQfDh7I0hEWYJvZQvDZxczbHcVbHkDhbvCbHIpBg4SavSS6taPGzmgawDJVFK6CldtnwZbScxpGo4H6q4tCaVtCURAXl8ZncqYrVGM9FKiocwYG_vUyxC6exjOC0iGfh5_PvNemU5zbgMMKkohZSTBB4SNY842QeH1kDDqn88BjpYJvkluzN_olo9z3s5BBmIUqolDWGqKSFfTKPKTMm5JZh_fNK7k04K4PFzUrLjKKAPThL4fUFffVMKEcEeVicoKaNLaZjs0Hts6qI24LAtjnrsZs29BfLrEziPJhzM_gV_Wf9PvO3ZDRbsdhVv6Bt4y9jtCt7g4XFgNwwzdsMX8ableDvPbnyuVGa3M3iDqIy3nN28S-z2C3hTr-MNHyx_xtvDebyhi3jL2K2CN0XiUYXdjngrs9sRb7_Ibp_K4oycZ7cMfk7eValu46GLlKdMOw54aTWautJqQnXdlR619WRqvD404JeU9xbE94FpL26MuX0vclq8s28MMoHvHZtaC53QRHgZUcEixAJj8mybd94992O1WBnDqSFxTX_d78uaGLvskmngrRGr3WFicW_OU6trbtv64v2PyLXBrsmEEMRia_lx29u0bM93P4KgNdYel04ga6tGXVf6cLfe8V69a7Z7q2Bpbvnopb6WIv05wT4zjcPecLCYK-ssmkiImd7dBsX91zuLCkJLIJfIIzCA4BUAM6UYDYnkXxFppO-Tvk-qEfYmAHYQaZiknIos03CircAy5uyOc-ocO3sjqZpRAYp3K4FnqWgZCuw_yQhi6g"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "A History of Dragons: Tracing Ancient Legends Across Cultures",
+      "link": "https://www.youtube.com/watch?v=0YUw1Cgrkdc",
+      "displayed_link": "38.3K+ views",
+      "date": "3 years ago",
+      "thumbnail": "https://serpapi.com/searches/6ae1f89893469535ba978d55/images/JLXWuoitXLntBlYiT8hP0dCgbkboA448QA2N6i0MgQo.jpeg",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "A History of Dragons: Tracing Ancient Legends Across Cultures. History of the Sumerians and Early Bronze Age Mesopotamia (7000-2000 BC)",
+      "duration": "37:08",
+      "about_this_result": {
+        "source": {
+          "description": "A History of Dragons: Tracing Ancient Legends Across Cultures. History of the Sumerians and Early Bronze Age Mesopotamia (7000-2000 BC)",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVk8zaTdLZXFubTJ5WDRXTWlFeDA2c3JfSXhTb0xUbXdTenFXTnUtdUV3ZExwa25MeUl4ZDdDenVNUTZfUGVGeGNBQ0tFMWR4d0tZckFuR0VENDJZb21xc0tkX19zUkFieHY5MlJzSzh3X28yNmY5ZEc3QnBHN0ZkTl82TjFOTlc2YkESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVk8zaTdLZXFubTJ5WDRXTWlFeDA2c3JfSXhTb0xUbXdTenFXTnUtdUV3ZExwa25MeUl4ZDdDenVNUTZfUGVGeGNBQ0tFMWR4d0tZckFuR0VENDJZb21xc0tkX19zUkFieHY5MlJzSzh3X28yNmY5ZEc3QnBHN0ZkTl82TjFOTlc2YkESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "source": "YouTube · Lady of the Library"
+    },
+    {
+      "position": 2,
+      "title": "Dragon Species | Basic Dragon Information",
+      "link": "http://www.blackdrago.com/species.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVFJOypt9WtiJjj2FeL58zqe1oNbSGUCye6maU8M_8P4YYA2dUGlRx2sE3kuebAc3ArwM_TBGTg2GXANanVneJk489eEgI8VBzwvwix44jEIewimrC3-Z79Ml8bw&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQFnoECB8QAQ&uoh=1",
+      "displayed_link": "http://www.blackdrago.com › species",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIACAAIAMBIgACEQEDEQH_xAAXAAEBAQEAAAAAAAAAAAAAAAAFBgQD_8QALBAAAQMDAwEHBAMAAAAAAAAAAQIDEQQFIQASMUETFDJRYXGhBpGy8CIzUv_EABcBAQEBAQAAAAAAAAAAAAAAAAQFAwL_xAAfEQACAgIBBQAAAAAAAAAAAAABAwACESEEEiIxUVL_2gAMAwEAAhEDEQA_AIj6XsDD7DdfcAlxtwkMMbo3EKglXpI46zqsTStUgQyzRUbKCCHS3tConBMDERgc8zqTbq12-mbNbQpqmnGGmmw44QlraBk4OCTOm6a4rp1MN0lPTFhbZW44lCkNoTmJSOCQPCf8nnjURwZc5B1EprWvbjcEuIp6x15TjCVALCe1NP3dcKwk58RnmfTBHAdzt5o1pKdxbViVRKVZkfHOmGUJqak3GoZ7NqrT_UpZWknmATx0gdMx6br3Sh1lQQEqZ7MpajGwj-UKz4iTM9QfQjSq36SBCtr7E70paudppjUJQqWkgmOowfkHWmmpXaGmUEK7ZyUgK2gJSnrAHTaI9oHGNRlqurlvKkFAdYX4myYz5j403aLm49Q7O8MhxogBLrmwlPEkn74HnrOyrVzjxKKeUtgH1iJVy2Rbu7lENgBICOUHkRP7GuFweRT_AE86l4x2rgKUkTMNrSfzSPv5HWKvr6IOocLqnFNuqKREJA43AcmIx7nqDAVyr1VjmJDSTKUk59zrpadCD5bM3M__2Q.jpeg",
+      "snippet": "Dragon Species describe specific creatures, like dogs or wildebeest. Dragon Types are more general and usually focus on physiology, like number of limbs. Ying ...",
+      "snippet_highlighted_words": [
+        "Dragon Species describe specific creatures, like dogs or wildebeest"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Dragon Species describe specific creatures, like dogs or wildebeest. Dragon Types are more general and usually focus on physiology, like number of limbs. Ying ...",
+          "source_info_link": "http://www.blackdrago.com/species.htm",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIACAAIAMBIgACEQEDEQH_xAAXAAEBAQEAAAAAAAAAAAAAAAAFBgQD_8QALBAAAQMDAwEHBAMAAAAAAAAAAQIDEQQFIQASMUETFDJRYXGhBpGy8CIzUv_EABcBAQEBAQAAAAAAAAAAAAAAAAQFAwL_xAAfEQACAgIBBQAAAAAAAAAAAAABAwACESEEEiIxUVL_2gAMAwEAAhEDEQA_AIj6XsDD7DdfcAlxtwkMMbo3EKglXpI46zqsTStUgQyzRUbKCCHS3tConBMDERgc8zqTbq12-mbNbQpqmnGGmmw44QlraBk4OCTOm6a4rp1MN0lPTFhbZW44lCkNoTmJSOCQPCf8nnjURwZc5B1EprWvbjcEuIp6x15TjCVALCe1NP3dcKwk58RnmfTBHAdzt5o1pKdxbViVRKVZkfHOmGUJqak3GoZ7NqrT_UpZWknmATx0gdMx6br3Sh1lQQEqZ7MpajGwj-UKz4iTM9QfQjSq36SBCtr7E70paudppjUJQqWkgmOowfkHWmmpXaGmUEK7ZyUgK2gJSnrAHTaI9oHGNRlqurlvKkFAdYX4myYz5j403aLm49Q7O8MhxogBLrmwlPEkn74HnrOyrVzjxKKeUtgH1iJVy2Rbu7lENgBICOUHkRP7GuFweRT_AE86l4x2rgKUkTMNrSfzSPv5HWKvr6IOocLqnFNuqKREJA43AcmIx7nqDAVyr1VjmJDSTKUk59zrpadCD5bM3M__2Q.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVjVZRnlsb0RBSHRKTmpmTjlhYldzVm8yczU4QmE4ZlRtZ2JlUGZINnpib01ENFYtTktqOU9QNmVKa1NDbEl4RHZydmVOWXVCWWJmaEdhSVhMaDExZTBoaW0zOUNoWlpncnRLbjJKUTVEdnJFa0p1dHItd3JHQlM3REpREgQaAggAGsMDEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAnQMIABAAGAAgACoWCgdkcmFnb25zFUImCD4aBmRyYWdvbjKQAS9nb3RvP3VybD1DQUVTWUFIck96QVY1WUZ5bG9EQUh0Sk5qZk45YWJXc1ZvMnM1OEJhOGZUbWdiZVBmSDZ6Ym9NRDRWLU5LajlPUDZlSmtTQ2xJeER2cnZlTll1QlliZmhHYUlYTGgxMWUwaGltMzlDaFpaZ3J0S24ySlE1RHZyRWtKdXRyLXdyR0JTN0RKUTo3PGI-RHJhZ29uPC9iPiBTcGVjaWVzIHwgQmFzaWMgPGI-RHJhZ29uPC9iPiBJbmZvcm1hdGlvbkKuATxiPkRyYWdvbiBTcGVjaWVzIGRlc2NyaWJlIHNwZWNpZmljIGNyZWF0dXJlcywgbGlrZSBkb2dzIG9yIHdpbGRlYmVlc3Q8L2I-LiBEcmFnb24gVHlwZXMgYXJlIG1vcmUgZ2VuZXJhbCBhbmQgdXN1YWxseSBmb2N1cyBvbiBwaHlzaW9sb2d5LCBsaWtlIG51bWJlciBvZiBsaW1icy4gWWluZyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVjVZRnlsb0RBSHRKTmpmTjlhYldzVm8yczU4QmE4ZlRtZ2JlUGZINnpib01ENFYtTktqOU9QNmVKa1NDbEl4RHZydmVOWXVCWWJmaEdhSVhMaDExZTBoaW0zOUNoWlpncnRLbjJKUTVEdnJFa0p1dHItd3JHQlM3REpREgQaAggAGsMDEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAnQMIABAAGAAgACoWCgdkcmFnb25zFUImCD4aBmRyYWdvbjKQAS9nb3RvP3VybD1DQUVTWUFIck96QVY1WUZ5bG9EQUh0Sk5qZk45YWJXc1ZvMnM1OEJhOGZUbWdiZVBmSDZ6Ym9NRDRWLU5LajlPUDZlSmtTQ2xJeER2cnZlTll1QlliZmhHYUlYTGgxMWUwaGltMzlDaFpaZ3J0S24ySlE1RHZyRWtKdXRyLXdyR0JTN0RKUTo3PGI-RHJhZ29uPC9iPiBTcGVjaWVzIHwgQmFzaWMgPGI-RHJhZ29uPC9iPiBJbmZvcm1hdGlvbkKuATxiPkRyYWdvbiBTcGVjaWVzIGRlc2NyaWJlIHNwZWNpZmljIGNyZWF0dXJlcywgbGlrZSBkb2dzIG9yIHdpbGRlYmVlc3Q8L2I-LiBEcmFnb24gVHlwZXMgYXJlIG1vcmUgZ2VuZXJhbCBhbmQgdXN1YWxseSBmb2N1cyBvbiBwaHlzaW9sb2d5LCBsaWtlIG51bWJlciBvZiBsaW1icy4gWWluZyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "The Circle of the Dragon"
+    },
+    {
+      "position": 3,
+      "title": "Wow, I learned so many fun facts about Dragons from ...",
+      "link": "https://www.facebook.com/bgcalbany/videos/dragons/270802227415809/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVj29ZR39kYldG1RLrCKmop5_pksBD-5YyPqm_TlCc_g8NpHztEu2TlI5wmhuF90BLfkLet9_FG-gt0HxIkkTbe132M6bEszSKxUbZs6vxvQ4-iOLOXR-NPrqOVxthT_A40QaVmBYG76UrL1emku092JL8KuAVgzWp&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQFnoECEUQAQ&uoh=1",
+      "displayed_link": "5 reactions",
+      "date": "6 years ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+      "snippet": "This video presents a historical claim that the word for dinosaurs was originally \"dragons\" in the 19th century.",
+      "snippet_highlighted_words": [
+        "the word for dinosaurs was originally \"dragons"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This video presents a historical claim that the word for dinosaurs was originally \"dragons\" in the 19th century.",
+          "source_info_link": "https://www.facebook.com/bgcalbany/videos/dragons/270802227415809/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVjNpOHFrRGFqa2VaWUQ3RzN2bFFQWWJCV3ZFRnRHOHl0ZEUyRzlBS0R6YjBsSTJTQ3NvajNyUlBxaThla05GN1duQ0FJUW9rR2ZBS2laNnBEX0czcHdpTFZyWkRuNkY1NmdfdXVTOXBCWUsxeTB0TmhNdWVENVduNk01ZWx2ZUcwQ1NZeEZPNG1VWXZyMXhoWVdLdWpBdXk5YjY0OXh5UU8SBBoCCAAaxwMSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAowMIABAAGAAgACoWCgdkcmFnb25zFdCGqkAaBmRyYWdvbjK2AS9nb3RvP3VybD1DQUVTZlFIck96QVYzaThxa0RhamtlWllEN0czdmxRUFliQld2RUZ0Rzh5dGRFMkc5QUtEemIwbEkyU0Nzb2ozclJQcWk4ZWtORjdXbkNBSVFva0dmQUtpWjZwRF9HM3B3aUxWclpEbjZGNTZnX3V1UzlwQllLMXkwdE5oTXVlRDVXbjZNNWVsdmVHMENTWXhGTzRtVVl2cjF4aFlXS3VqQXV5OWI2NDl4eVFPOkRXb3csIEkgbGVhcm5lZCBzbyBtYW55IGZ1biBmYWN0cyBhYm91dCA8Yj5EcmFnb25zPC9iPiBmcm9tIFJ5bGFuIC4uLkKBAVRoaXMgdmlkZW8gcHJlc2VudHMgYSBoaXN0b3JpY2FsIGNsYWltIHRoYXQgPGI-dGhlIHdvcmQgZm9yIGRpbm9zYXVycyB3YXMgb3JpZ2luYWxseSAmcXVvdDtkcmFnb25zPC9iPiZxdW90OyBpbiB0aGUgMTl0aCBjZW50dXJ5LiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVjNpOHFrRGFqa2VaWUQ3RzN2bFFQWWJCV3ZFRnRHOHl0ZEUyRzlBS0R6YjBsSTJTQ3NvajNyUlBxaThla05GN1duQ0FJUW9rR2ZBS2laNnBEX0czcHdpTFZyWkRuNkY1NmdfdXVTOXBCWUsxeTB0TmhNdWVENVduNk01ZWx2ZUcwQ1NZeEZPNG1VWXZyMXhoWVdLdWpBdXk5YjY0OXh5UU8SBBoCCAAaxwMSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAowMIABAAGAAgACoWCgdkcmFnb25zFdCGqkAaBmRyYWdvbjK2AS9nb3RvP3VybD1DQUVTZlFIck96QVYzaThxa0RhamtlWllEN0czdmxRUFliQld2RUZ0Rzh5dGRFMkc5QUtEemIwbEkyU0Nzb2ozclJQcWk4ZWtORjdXbkNBSVFva0dmQUtpWjZwRF9HM3B3aUxWclpEbjZGNTZnX3V1UzlwQllLMXkwdE5oTXVlRDVXbjZNNWVsdmVHMENTWXhGTzRtVVl2cjF4aFlXS3VqQXV5OWI2NDl4eVFPOkRXb3csIEkgbGVhcm5lZCBzbyBtYW55IGZ1biBmYWN0cyBhYm91dCA8Yj5EcmFnb25zPC9iPiBmcm9tIFJ5bGFuIC4uLkKBAVRoaXMgdmlkZW8gcHJlc2VudHMgYSBoaXN0b3JpY2FsIGNsYWltIHRoYXQgPGI-dGhlIHdvcmQgZm9yIGRpbm9zYXVycyB3YXMgb3JpZ2luYWxseSAmcXVvdDtkcmFnb25zPC9iPiZxdW90OyBpbiB0aGUgMTl0aCBjZW50dXJ5LiICEAFIAFgAaAA",
+      "source": "Facebook · Boys & Girls Club of Albany",
+      "read_more_link": "https://www.facebook.com/bgcalbany/videos/dragons/270802227415809/#:~:text=This%20video%20presents%20a%20historical,%22dragons%22%20in%20the%2019th%20century."
+    },
+    {
+      "position": 4,
+      "title": "The Mythology of the Dragon",
+      "link": "https://muehle-shaving.co.uk/blogs/the-muhle-brand/the-mythology-of-the-dragon?srsltid=AYCX9vKNEs7DwrmJx-hsV5ftaz1hzKFDILVRiiyxi2OQrsEon2lP5D7f",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESywEB6zswFcEar4Ye9ORAAimyPgcvhKDn-604BtMPivoPwO2yiiThOjMe0hOqi1ZxX35TUebLt9GHKzh2W_2VT2cIFstWc29WOM7gR5ciQxs9pkhzMyHyuDQSUdclDrLTF7Mw4pJO1MQxIFWEg6FWEqvpqTFj46yEUrwYaHWdgGfKh7kxkZqlOy9dc8BWKz7DTqKmlHA9JvVHhPUPZ6Hn1v173zeyYaptEM2J4jj7hFbpHTb4MhCSY_95Nehs9rvN-HQxSrqsKFjc1zV3og&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQFnoECEMQAQ&uoh=1",
+      "displayed_link": "https://muehle-shaving.co.uk › blogs › the-muhle-brand",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAB2klEQVR4AW3TAafkMBSG4f2ZF0Vg8gs6ANSCAQoIigBXoSCAAAFGASgDARRFQSnhnHe7zK0aN4iEJ8l3wvkDgBA8ws9Q1sf83h8AlPjXhVMoxXXNjP4AJTYr7vkjBB9Jb3EAZa8TsrUv5P3eQOHhkfOGtU2wuAUFIfWo-IFrht1FyN2OCpMvbC6iJwBF-gBTj7L4jdWNyBWgQuwLz8j2vTB3GYE3OMXoN4ZXmJi6BeEDgJCHqR_6OA4bwhWcYomuskMqCL-DfXKVCRnR34Cw9sF3vh8iqldwRuhXwhQyYyjoCS5FPOPwTXYxJb99lKlC8uq-vlqyMV_55RbkAlQ5zpbmZmtNxppAbifkBIp0A8z2Zm9zX9nKwfp4om-glEdE6Iy1VWqP2Y5oeQT0zOBdIdQ3a017_w-aF7kZT4AeYuidsQext-Oh6NJ9QjiB4Nvtbur77TCNrcJcX0OCUjQf9x8Jb3U8FmyqXAAUkqmGsbLm71yb--dHgeCNeS5HzI7G2PwJQJvqNkttviKuquIFnL10f2z4-v4i1XX4BKJSisAxK1pKQT5CKsqWleu4AI1TRFJ6kfO489zZw3TtzfJoW_YwJsbW7er3I9IVsPZ92AguM6Zj4QJbm1CAf6o6eSAcNrU5AAAAAElFTkSuQmCC.png",
+      "snippet": "Woven in global folklore, dragons have been inspiring awe for thousands of years. In this blog post, we are taking a look at these creatures across ...",
+      "snippet_highlighted_words": [
+        "dragons have been inspiring awe for thousands of years"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Woven in global folklore, dragons have been inspiring awe for thousands of years. In this blog post, we are taking a look at these creatures across ...",
+          "source_info_link": "https://muehle-shaving.co.uk/blogs/the-muhle-brand/the-mythology-of-the-dragon?srsltid=AYCX9vKNEs7DwrmJx-hsV5ftaz1hzKFDILVRiiyxi2OQrsEon2lP5D7f",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAB2klEQVR4AW3TAafkMBSG4f2ZF0Vg8gs6ANSCAQoIigBXoSCAAAFGASgDARRFQSnhnHe7zK0aN4iEJ8l3wvkDgBA8ws9Q1sf83h8AlPjXhVMoxXXNjP4AJTYr7vkjBB9Jb3EAZa8TsrUv5P3eQOHhkfOGtU2wuAUFIfWo-IFrht1FyN2OCpMvbC6iJwBF-gBTj7L4jdWNyBWgQuwLz8j2vTB3GYE3OMXoN4ZXmJi6BeEDgJCHqR_6OA4bwhWcYomuskMqCL-DfXKVCRnR34Cw9sF3vh8iqldwRuhXwhQyYyjoCS5FPOPwTXYxJb99lKlC8uq-vlqyMV_55RbkAlQ5zpbmZmtNxppAbifkBIp0A8z2Zm9zX9nKwfp4om-glEdE6Iy1VWqP2Y5oeQT0zOBdIdQ3a017_w-aF7kZT4AeYuidsQext-Oh6NJ9QjiB4Nvtbur77TCNrcJcX0OCUjQf9x8Jb3U8FmyqXAAUkqmGsbLm71yb--dHgeCNeS5HzI7G2PwJQJvqNkttviKuquIFnL10f2z4-v4i1XX4BKJSisAxK1pKQT5CKsqWleu4AI1TRFJ6kfO489zZw3TtzfJoW_YwJsbW7er3I9IVsPZ92AguM6Zj4QJbm1CAf6o6eSAcNrU5AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqACL2dvdG8_dXJsPUNBRVN5d0VCNnpzd0ZWYnZqV0FpM2pDck9TQ25Bakg1d1pWUVVGQndZeWg3LVEwYVNtckg0amlFakZIM3Y3X0w1MzBtQWZSamJZb0h1MDJJNm1lVUZYWmZTWFFNS2tpNnQ5LTg4cHZISUxYTDJhUVMwS3BGdUV5ZURlMnFBaHFOc0ZRQ2V3dHp1bm9BaUJNUUZGTlFETGc2TDY4Vmw4bVd3OXFTVDNGNnNTOV9LYV80SFBlRnhKR0k2UFVnWWJtNllPSUV1TWVLdjkxQzUzemo2cnJpZnBOQTNHSkdmNnhFZG1DVWRaTW9VUGR5Ulp3R1NfZlhsNDJoRFo3WXJqTlNicG1IbmxMSzVpU0RhY2VXME9NdHV3EgQaAggAGuwDEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQMgDCAAQABgAIAAqFgoHZHJhZ29ucxXyYhZAGgZkcmFnb24yyAEvZ290bz91cmw9Q0FFU2lRRUI2enN3RmVnZmZVOVUtaHhXR1hFSC0zT1Nmd1NSUlphY3haRnQ4ZzhIZ09YZWluaGhaQkxCZ29vek5xaUZCYWh6WjhTaVlKd21IZ0JyMmU2MlNESExQc3hLb1dLMGl6YVNubVhwNUU3eG92WG1adFBTQUFtV0RBMGFzUlJVc0FIUjF1VTlSeXJPUVRxem9uMGlKNGVWSWxoTGJHQk9VanZkUGkzV0lvSG85MDl5N1FEcFNCT2RaQTo1VGhlIE1VSExFIFVLIEJsb2c6IFRoZSBNeXRob2xvZ3kgb2YgdGhlIDxiPkRyYWdvbjwvYj5CowFXb3ZlbiBpbiBnbG9iYWwgZm9sa2xvcmUsIDxiPmRyYWdvbnMgaGF2ZSBiZWVuIGluc3BpcmluZyBhd2UgZm9yIHRob3VzYW5kcyBvZiB5ZWFyczwvYj4uIEluIHRoaXMgYmxvZyBwb3N0LCB3ZSBhcmUgdGFraW5nIGEgbG9vayBhdCB0aGVzZSBjcmVhdHVyZXMgYWNyb3NzJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqACL2dvdG8_dXJsPUNBRVN5d0VCNnpzd0ZWYnZqV0FpM2pDck9TQ25Bakg1d1pWUVVGQndZeWg3LVEwYVNtckg0amlFakZIM3Y3X0w1MzBtQWZSamJZb0h1MDJJNm1lVUZYWmZTWFFNS2tpNnQ5LTg4cHZISUxYTDJhUVMwS3BGdUV5ZURlMnFBaHFOc0ZRQ2V3dHp1bm9BaUJNUUZGTlFETGc2TDY4Vmw4bVd3OXFTVDNGNnNTOV9LYV80SFBlRnhKR0k2UFVnWWJtNllPSUV1TWVLdjkxQzUzemo2cnJpZnBOQTNHSkdmNnhFZG1DVWRaTW9VUGR5Ulp3R1NfZlhsNDJoRFo3WXJqTlNicG1IbmxMSzVpU0RhY2VXME9NdHV3EgQaAggAGuwDEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQMgDCAAQABgAIAAqFgoHZHJhZ29ucxXyYhZAGgZkcmFnb24yyAEvZ290bz91cmw9Q0FFU2lRRUI2enN3RmVnZmZVOVUtaHhXR1hFSC0zT1Nmd1NSUlphY3haRnQ4ZzhIZ09YZWluaGhaQkxCZ29vek5xaUZCYWh6WjhTaVlKd21IZ0JyMmU2MlNESExQc3hLb1dLMGl6YVNubVhwNUU3eG92WG1adFBTQUFtV0RBMGFzUlJVc0FIUjF1VTlSeXJPUVRxem9uMGlKNGVWSWxoTGJHQk9VanZkUGkzV0lvSG85MDl5N1FEcFNCT2RaQTo1VGhlIE1VSExFIFVLIEJsb2c6IFRoZSBNeXRob2xvZ3kgb2YgdGhlIDxiPkRyYWdvbjwvYj5CowFXb3ZlbiBpbiBnbG9iYWwgZm9sa2xvcmUsIDxiPmRyYWdvbnMgaGF2ZSBiZWVuIGluc3BpcmluZyBhd2UgZm9yIHRob3VzYW5kcyBvZiB5ZWFyczwvYj4uIEluIHRoaXMgYmxvZyBwb3N0LCB3ZSBhcmUgdGFraW5nIGEgbG9vayBhdCB0aGVzZSBjcmVhdHVyZXMgYWNyb3NzJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "mühle uk"
+    },
+    {
+      "position": 5,
+      "title": "Famous Dragons in Mythology: Names & Stories",
+      "link": "https://www.centreofexcellence.com/famous-dragons-in-mythology/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAVBUBAXq3mLb1fAJleYe0Vod56B9QPtMRLlNzuvZM5cC3VwrGFJV1g9-vUr7nohhXUCURE4P1rQFgTPqsqxkZ2GKvEWdXut3qntKeVgfiNJbSziAFG2ncfWr2XKbPauK1W78mAhZVc9PjV3scmZ1RvdKNSkl_F&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQFnoECEgQAQ&uoh=1",
+      "displayed_link": "https://www.centreofexcellence.com › famous-dragons-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEUBacICacIAaMIAZ8EAacIAZMAAbcQuesgWccUAZsFqm9SbvePD2_CqyOh8ptkAY8B9rNy91-9kltOiw-b2-v3s9fvb6fYAYL____-zy-hfkdBIiM48gMqwyOcyhs_P4vS41e4AXL4jgc2Std92oNaJtuCuzuqYwOXk7_hwqNsidceHrt1Ih80auRiNAAABEUlEQVR4AWJgYARBXBQeMOh0QmkADVSBxDAMw7qwy4wpM_z_fXMGOjJJOotQSth_ig3F_idLuJBSATUNdkoaiM_WAmU7ruv5kpjuFYSRi4i5YYJM0sx188wHKAKwCq-MqqqqAZlEOGUUS9n4TaDbpAmKpOyYEIwhE5o8bzilALTr7XCIx6ScCpRgyOR2mgiCZqwYwoDNXpCUaVqmC7dwuZSJ-i6rlYs5Qdlt3_cGUJbXR685IRTI1J9rVKPsNRYFfBJSXlk1Qmi_hmu-NUdmo65LsM-bT1TmVdWnM6NBQM0rbhRFMTdMBvre-n6YtUkQfezEQ9TGE6WBXFJe7B-fUAaM_aJmr_dQAh4MgHLDKIEBAPADE2igETh7AAAAAElFTkSuQmCC.png",
+      "date": "Dec 9, 2025",
+      "snippet": "8 Famous Dragons in Mythology · 1. Tiamat (Mesopotamian Mythology) · 2. Ladon (Greek Mythology) · 3. Jörmungandr (Norse Mythology) · 4. Fáfnir ( ...",
+      "snippet_highlighted_words": [
+        "1. Tiamat (Mesopotamian Mythology"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "8 Famous Dragons in Mythology · 1. Tiamat (Mesopotamian Mythology) · 2. Ladon (Greek Mythology) · 3. Jörmungandr (Norse Mythology) · 4. Fáfnir ( ...",
+          "source_info_link": "https://www.centreofexcellence.com/famous-dragons-in-mythology/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEUBacICacIAaMIAZ8EAacIAZMAAbcQuesgWccUAZsFqm9SbvePD2_CqyOh8ptkAY8B9rNy91-9kltOiw-b2-v3s9fvb6fYAYL____-zy-hfkdBIiM48gMqwyOcyhs_P4vS41e4AXL4jgc2Std92oNaJtuCuzuqYwOXk7_hwqNsidceHrt1Ih80auRiNAAABEUlEQVR4AWJgYARBXBQeMOh0QmkADVSBxDAMw7qwy4wpM_z_fXMGOjJJOotQSth_ig3F_idLuJBSATUNdkoaiM_WAmU7ruv5kpjuFYSRi4i5YYJM0sx188wHKAKwCq-MqqqqAZlEOGUUS9n4TaDbpAmKpOyYEIwhE5o8bzilALTr7XCIx6ScCpRgyOR2mgiCZqwYwoDNXpCUaVqmC7dwuZSJ-i6rlYs5Qdlt3_cGUJbXR685IRTI1J9rVKPsNRYFfBJSXlk1Qmi_hmu-NUdmo65LsM-bT1TmVdWnM6NBQM0rbhRFMTdMBvre-n6YtUkQfezEQ9TGE6WBXFJe7B-fUAaM_aJmr_dQAh4MgHLDKIEBAPADE2igETh7AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVk5taG1xZ1hhLVl6RklkcEEyWGFrZFQyQzhwNHEyb0VqUWdCbGd0QUNhbTJQeWEtcl9TVGlPQkF4S3N5LXhxRFNHSUJ1ckRLMzlNQ3ZBVkdiVng0RmJtaVJCVzRCMEpwc2tRem4yQmZFTFhYN1ZFUTFRaUtzLUh6bkFncUlXRVROUEtkVmoza2NlUXVKSUtSQ0UyNXdZZFpOa05nWBIEGgIIABr1AxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQM8DCAAQABgAIAAqFgoHZHJhZ29ucxUmI59AGgZkcmFnb24ysgEvZ290bz91cmw9Q0FFU2VnSHJPekFWTm1obXFnWGEtWXpGSWRwQTJYYWtkVDJDOHA0cTJvRWpRZ0JsZ3RBQ2FtMlB5YS1yX1NUaU9CQXhLc3kteHFEU0dJQnVyREszOU1DdkFWR2JWeDRGYm1pUkJXNEIwSnBza1F6bjJCZkVMWFg3VkVRMVFpS3MtSHpuQWdxSVdFVE5QS2RWajNrY2VRdUpJS1JDRTI1d1lkWk5rTmdYOjdGYW1vdXMgPGI-RHJhZ29uczwvYj4gaW4gTXl0aG9sb2d5OiBOYW1lcyAmYW1wOyBTdG9yaWVzQr4BOCBGYW1vdXMgRHJhZ29ucyBpbiBNeXRob2xvZ3kgJm1pZGRvdDsgPGI-MS4gVGlhbWF0IChNZXNvcG90YW1pYW4gTXl0aG9sb2d5PC9iPikgJm1pZGRvdDsgMi4gTGFkb24gKEdyZWVrIE15dGhvbG9neSkgJm1pZGRvdDsgMy4gSsO2cm11bmdhbmRyIChOb3JzZSBNeXRob2xvZ3kpICZtaWRkb3Q7IDQuIEbDoWZuaXIgKCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVk5taG1xZ1hhLVl6RklkcEEyWGFrZFQyQzhwNHEyb0VqUWdCbGd0QUNhbTJQeWEtcl9TVGlPQkF4S3N5LXhxRFNHSUJ1ckRLMzlNQ3ZBVkdiVng0RmJtaVJCVzRCMEpwc2tRem4yQmZFTFhYN1ZFUTFRaUtzLUh6bkFncUlXRVROUEtkVmoza2NlUXVKSUtSQ0UyNXdZZFpOa05nWBIEGgIIABr1AxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQM8DCAAQABgAIAAqFgoHZHJhZ29ucxUmI59AGgZkcmFnb24ysgEvZ290bz91cmw9Q0FFU2VnSHJPekFWTm1obXFnWGEtWXpGSWRwQTJYYWtkVDJDOHA0cTJvRWpRZ0JsZ3RBQ2FtMlB5YS1yX1NUaU9CQXhLc3kteHFEU0dJQnVyREszOU1DdkFWR2JWeDRGYm1pUkJXNEIwSnBza1F6bjJCZkVMWFg3VkVRMVFpS3MtSHpuQWdxSVdFVE5QS2RWajNrY2VRdUpJS1JDRTI1d1lkWk5rTmdYOjdGYW1vdXMgPGI-RHJhZ29uczwvYj4gaW4gTXl0aG9sb2d5OiBOYW1lcyAmYW1wOyBTdG9yaWVzQr4BOCBGYW1vdXMgRHJhZ29ucyBpbiBNeXRob2xvZ3kgJm1pZGRvdDsgPGI-MS4gVGlhbWF0IChNZXNvcG90YW1pYW4gTXl0aG9sb2d5PC9iPikgJm1pZGRvdDsgMi4gTGFkb24gKEdyZWVrIE15dGhvbG9neSkgJm1pZGRvdDsgMy4gSsO2cm11bmdhbmRyIChOb3JzZSBNeXRob2xvZ3kpICZtaWRkb3Q7IDQuIEbDoWZuaXIgKCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Centre of Excellence",
+      "read_more_link": "https://www.centreofexcellence.com/famous-dragons-in-mythology/#:~:text=8%20Famous%20Dragons%20in%20Mythology&text=1.%20Tiamat%20(Mesopotamian%20Mythology)&text=2.%20Ladon%20(Greek%20Mythology)&text=3.%20J%C3%B6rmungandr%20(Norse%20Mythology)&text=4.%20F%C3%A1fnir%20(Germanic%20and%20Norse,Mythology)"
+    },
+    {
+      "position": 6,
+      "title": "Did Dragons Ever Exist? The History of Our Beloved ...",
+      "link": "https://wickedtender.com/blogs/wicked-tender-blog/did-dragons-ever-exist-the-history-of-our-beloved-dragon-legends?srsltid=AYCX9vLNK9xfELcL4aUjBq_PmCh-ZaqDNJ0tVs4AA92L4A2sco2nlx1l",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES7wEB6zswFbL4DV2-W3Mkm-Ld47LOZB9V_BbihtGfTVUbuG62MVxdQnqovE_QAQyM9amHJVvYbzW_yJrlEWtYUf4ciTkQaU3jpnSG0b28Hd5ArXYH6YneU0f-ZB5uPVxb1FUb4oJ_gG9fNX_iWBeZXHZwWwp0O-PPGRUTuG4RopemrshEy73d6fBQNitfivRABpWfQnI6ZQahbQQDde3A0Xfhkp5MZLk_Z6qEW0WKTVWigejfdIk1fQw9DT10Tu0LMphUeZaatLSoWTPNWH_vvi75LzWjYb-tleq8TjFokI-Fg8NT5KoLmnEbrOQG0yKugA&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQFnoECEcQAQ&uoh=1",
+      "displayed_link": "https://wickedtender.com › blogs › wicked-tender-blog",
+      "favicon": "https://serpapi.com/searches/6ae1f89893469535ba978d55/images/JLXWuoitXLntBlYiT8hP0U3H6fo1VUD0fyVTJYmUzIM.png",
+      "date": "Sep 22, 2022",
+      "snippet": "The first recorded myths of dragons come from China where they were depicted as a benevolent, wise and powerful force for good. It was believed ...",
+      "snippet_highlighted_words": [
+        "The first recorded myths of dragons come from China"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The first recorded myths of dragons come from China where they were depicted as a benevolent, wise and powerful force for good. It was believed ...",
+          "source_info_link": "https://wickedtender.com/blogs/wicked-tender-blog/did-dragons-ever-exist-the-history-of-our-beloved-dragon-legends?srsltid=AYCX9vLNK9xfELcL4aUjBq_PmCh-ZaqDNJ0tVs4AA92L4A2sco2nlx1l",
+          "icon": "https://serpapi.com/searches/6ae1f89893469535ba978d55/images/JLXWuoitXLntBlYiT8hP0XoTqr27yIqvZlxMpEyDh8XGaMc21Nsea9KvV0A7Ws--.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtACL2dvdG8_dXJsPUNBRVM3d0VCNnpzd0ZkbzVOU2p1bnVmVzNxb09CTWx4UktDYzZqQ1BWcXdteWllMEZuR19rbW5UejdTQnVrU21yWVRQSGpMTWQzVklaWGN4MWdQZ1R1aEtCREF6cGNCVjdsX01KQ3FXX1E3dEZQdUxVMHk3aXFPbnoyVVVRZzhrQ1RxQXdzQlBGRkhEYTJFc21Rb1RPZmZJMjNRZHdwUHZiWWpwZWo1NHYwTVEzLVNpOXI2eW5zU1l5VllocUdKa0tRZ0M1dnVRUjVES1drbzMxaWd5eHlHNzd2bnBUaEk2cTJ5ZkVoUmo5Z2ZUbDRrX2RKdE9RRnhaVjl1aDRkLVIyRmQyWDg4dTBIRG80RGdLbTJOaDJOT282RnBzVmgzbk1wQVNlWmxLUmFDZnIwbHJYaWpyOGl6TXBKeWNNbUJrR3JrUWVnEgQaAggAGq4EEgAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQIoECAAQABgAIAAqFgoHZHJhZ29ucxU2kmFAGgZkcmFnb24y-AEvZ290bz91cmw9Q0FFU3JRRUI2enN3RmJudGxzUjNMYXFKd3dkbTNTSmtXTkFZeTNnYzlMUTdZWjMwYVBBNTJ0NVBkeVU3c3RzYmFZYzRzU3BmLVpoMm5ydUJhTkdIRG13aWpqZEVYQzBsVVFGRElrRUdNMVBWaW5WRXdSMnVlbjA0SzQ2TDlKUmtiZlpDSHI2WHpXRlpTdTd1NXBvU3J3RGsxWjJLcHJzT0wxTzFRUlE1NGJOak0xTFQwT2JlWUNiN2l2TWVielhXVl9hV2dqS1ZIa2hETk4wMFhnWlFqSXJQaDJsOGZscEg5NHJMbnlSeEcyNWc2QTpLRGlkIDxiPkRyYWdvbnM8L2I-IEV2ZXIgRXhpc3Q_IFRoZSBIaXN0b3J5IG9mIE91ciBCZWxvdmVkIDxiPkRyYWdvbjwvYj4gLi4uQp8BPGI-VGhlIGZpcnN0IHJlY29yZGVkIG15dGhzIG9mIGRyYWdvbnMgY29tZSBmcm9tIENoaW5hPC9iPiB3aGVyZSB0aGV5IHdlcmUgZGVwaWN0ZWQgYXMgYSBiZW5ldm9sZW50LCB3aXNlIGFuZCBwb3dlcmZ1bCBmb3JjZSBmb3IgZ29vZC4gSXQgd2FzIGJlbGlldmVkJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtACL2dvdG8_dXJsPUNBRVM3d0VCNnpzd0ZkbzVOU2p1bnVmVzNxb09CTWx4UktDYzZqQ1BWcXdteWllMEZuR19rbW5UejdTQnVrU21yWVRQSGpMTWQzVklaWGN4MWdQZ1R1aEtCREF6cGNCVjdsX01KQ3FXX1E3dEZQdUxVMHk3aXFPbnoyVVVRZzhrQ1RxQXdzQlBGRkhEYTJFc21Rb1RPZmZJMjNRZHdwUHZiWWpwZWo1NHYwTVEzLVNpOXI2eW5zU1l5VllocUdKa0tRZ0M1dnVRUjVES1drbzMxaWd5eHlHNzd2bnBUaEk2cTJ5ZkVoUmo5Z2ZUbDRrX2RKdE9RRnhaVjl1aDRkLVIyRmQyWDg4dTBIRG80RGdLbTJOaDJOT282RnBzVmgzbk1wQVNlWmxLUmFDZnIwbHJYaWpyOGl6TXBKeWNNbUJrR3JrUWVnEgQaAggAGq4EEgAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQIoECAAQABgAIAAqFgoHZHJhZ29ucxU2kmFAGgZkcmFnb24y-AEvZ290bz91cmw9Q0FFU3JRRUI2enN3RmJudGxzUjNMYXFKd3dkbTNTSmtXTkFZeTNnYzlMUTdZWjMwYVBBNTJ0NVBkeVU3c3RzYmFZYzRzU3BmLVpoMm5ydUJhTkdIRG13aWpqZEVYQzBsVVFGRElrRUdNMVBWaW5WRXdSMnVlbjA0SzQ2TDlKUmtiZlpDSHI2WHpXRlpTdTd1NXBvU3J3RGsxWjJLcHJzT0wxTzFRUlE1NGJOak0xTFQwT2JlWUNiN2l2TWVielhXVl9hV2dqS1ZIa2hETk4wMFhnWlFqSXJQaDJsOGZscEg5NHJMbnlSeEcyNWc2QTpLRGlkIDxiPkRyYWdvbnM8L2I-IEV2ZXIgRXhpc3Q_IFRoZSBIaXN0b3J5IG9mIE91ciBCZWxvdmVkIDxiPkRyYWdvbjwvYj4gLi4uQp8BPGI-VGhlIGZpcnN0IHJlY29yZGVkIG15dGhzIG9mIGRyYWdvbnMgY29tZSBmcm9tIENoaW5hPC9iPiB3aGVyZSB0aGV5IHdlcmUgZGVwaWN0ZWQgYXMgYSBiZW5ldm9sZW50LCB3aXNlIGFuZCBwb3dlcmZ1bCBmb3JjZSBmb3IgZ29vZC4gSXQgd2FzIGJlbGlldmVkJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Wicked Tender",
+      "read_more_link": "https://wickedtender.com/blogs/wicked-tender-blog/did-dragons-ever-exist-the-history-of-our-beloved-dragon-legends?srsltid=AYCX9vLNK9xfELcL4aUjBq_PmCh-ZaqDNJ0tVs4AA92L4A2sco2nlx1l#:~:text=The%20first%20recorded%20myths%20of,dragons%20guarded%20treasure%20and%20weapons."
+    }
+  ],
+  "perspectives": [
+    {
+      "author": "jasondavidwongpargin",
+      "source": "Facebook",
+      "duration": "1:40",
+      "extensions": [
+        "26.3K+ reactions "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUCve9KJ7Xl4YqDGY0VowalKSR1De9PyC5z6FWxg2nnuRguexyvE4ccysljO07DrlIrPz7COLhfbo1gJPG246DzjljNuQRv0gG37zQ_0tJEOzMxeM&s=10"
+      ],
+      "title": "Author Jason K Pargin. . Speaking of which:",
+      "link": "https://www.facebook.com/jasondavidwongpargin/videos/speaking-of-which/2230667057499495/",
+      "date": "6 days ago"
+    },
+    {
+      "author": "r/Fantasy",
+      "source": "Reddit",
+      "extensions": [
+        "820+ comments "
+      ],
+      "title": "Books where dragons are significant, dangerous figures that people have to reckon with, rather than creatures that can be easily defeated, tamed, or ignored. Dragons that are actually plot-relevant too.",
+      "link": "https://www.reddit.com/r/Fantasy/comments/1xe2z3k/books_where_dragons_are_significant_dangerous/",
+      "date": "3 days ago"
+    },
+    {
+      "author": "MinuteEarth",
+      "source": "YouTube",
+      "duration": "1:11",
+      "extensions": [
+        "14.3K+ views "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWPW0j-aw0vCZ7ffGlRUSjEGpClCpTVxTa0JH9pMiLopuBckZfRGOpK5FC9XHohQVKMQDLtXZofAr7UsK_YOdmLampur8YPJ0&s"
+      ],
+      "title": "How to Tame Your Pet AI Dragon",
+      "link": "https://www.youtube.com/shorts/1bjkZYmQefA",
+      "date": "1 day ago"
+    },
+    {
+      "author": "r/fireemblem",
+      "source": "Reddit",
+      "extensions": [
+        "180+ comments "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJe4ZsFi6Dj3Bsm33XwkCOrcaKuNvrmjJu7iiNExLec8Nkc-3XrRvDr1dte0qB3dkhiyrL0Ee-J5bndF-ErWEPEnckpoQ0zqok97Iy-2Rz3CpbKYU&s"
+      ],
+      "title": "Leaked dragon designs",
+      "link": "https://www.reddit.com/r/fireemblem/comments/1xgih1v/leaked_dragon_designs/",
+      "date": "1 day ago"
+    },
+    {
+      "author": "ashleygreene",
+      "source": "Instagram",
+      "duration": "1:12",
+      "extensions": [
+        "18.4K+ likes "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREWhkYapVlI1pyEhAbiBLxRhn4De4G7NQ_nOrzW-M1403HPlW-9EA6dLqjcLpwAj619A8hi6NnuM-ID2DnTFe2265n5PdHAXdnPMhF9JNFH_WOrIrO&s=10"
+      ],
+      "title": "Alice has been inspired by the Night Court and some dragon riders. ⚔️ I’ll be channeling my inner warrior. A little Alice, a little Nesta, and a little Aelin. #FourthWing #ACOTAR #SarahJMass #RebeccaYarros",
+      "link": "https://www.instagram.com/reel/De94vc8MlM1/",
+      "date": "1 day ago"
+    },
+    {
+      "author": "Facebook",
+      "duration": "0:16",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuT4LlqCazhjIkmmMF8UqNXlL6SJho8x36NEunuqbFetOkE5xKlLQ_itkw_-cKSZVzNNoLOXoFwIPQya6mScYUKKFiqVWk7lGfj_2UxoNMZxDRsV0&s=10"
+      ],
+      "title": "839K views · 11K reactions | DRAGON meets WYVERN!🐉 sometimes avoiding a fight is the best thing u can do! #dragon #dragons #wyvern #fantasy #creature #Warcraft #gameofthrones #HouseOfTheDragon #howtotrainyourdrag | wildoriaStudio",
+      "link": "https://www.facebook.com/61568015398208/videos/dragon-meets-wyvern-sometimes-avoiding-a-fight-is-the-best-thing-u-can-do-dragon/1637712814659465/",
+      "date": "2 weeks ago"
+    },
+    {
+      "author": "r/skyrim",
+      "source": "Reddit",
+      "duration": "0:29",
+      "extensions": [
+        "50+ comments "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgg8CrMlT5UIbhfDZpa9_pKEy5kNnBC7qQN8aIo9YfqNpR5qlsYK0hN-FcTKtQJsgOD7bwDOSF0Z-uHfnO1VHlD2AhPctIWjhq7EHLAgArWPuXGHo&s"
+      ],
+      "title": "I think this dragon just suffered a heart attack",
+      "link": "https://www.reddit.com/r/skyrim/comments/1xgoynl/i_think_this_dragon_just_suffered_a_heart_attack/",
+      "date": "1 day ago"
+    },
+    {
+      "author": "Dungeon Dad",
+      "source": "YouTube",
+      "duration": "28:54",
+      "extensions": [
+        "1.3M+ views "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLTUrnxDT2fANdtNj4d4QLY6HjavfjO54UMZkyGes1GPxmsWEqMisQLXS-_ZburRZFpnTIxkDAx_HxLorpMCg&s"
+      ],
+      "title": "The Most Powerful D&D Monster of all Time",
+      "link": "https://www.youtube.com/watch?v=ujUo1vS_dSk",
+      "date": "Aug 24, 2026",
+      "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSoLv0P9PdR74nrUieqMorvqVKHDyhlg0RsfQ"
+    },
+    {
+      "author": "Facebook",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlqPnjjDtDso7kU8CjmPvoxhhNw6x5jMRntB8xX4cy7MMoUVwUPAzSb-JmdWkvL6DXCk7YjWm6FqCeCwol7a3u3828bvDEXS01XPTmcgMv0K1sA&s"
+      ],
+      "title": "Can dagruel defeat the true dragons in a serious fight",
+      "link": "https://www.facebook.com/61592934298345/posts/pov-dagruel-is-one-of-the-few-beings-who-can-stand-against-the-true-dragons-in-t/122126640411431143/",
+      "date": "3 hours ago"
+    },
+    {
+      "author": "RageGamingVideos",
+      "source": "YouTube",
+      "duration": "9:48",
+      "extensions": [
+        "90.5K+ views "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnItxKCf349QVKRjecMMtBQfpqtOsPmxj2gJsoSkxYsMjWXnFvT40x0uyeTxPm_r1kPuZ5U3TJgTD-NftGt2TcBgM9juym1o&s"
+      ],
+      "title": "Dragon's Dogma 2 Dark Arisen - This Changes Everything - 2nd New DLC Expansion & BIG DD3 Potential!",
+      "link": "https://www.youtube.com/watch?v=WbeNX44_SKU",
+      "date": "3 days ago",
+      "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR0fg-3X2DAr3OlpTy2L1dg0oHSvuni0IOkKg"
+    },
+    {
+      "author": "DMNSorg",
+      "source": "Facebook",
+      "duration": "0:16",
+      "extensions": [
+        "5 reactions "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqjONQVzhTaDiEEJ1s9sPkM21dE74PSF8slAzwuk3JN1wt9TDU9DkvDX3YAuW-Wr0C8aoSVBuefQMT02GmMymKLYGF1AVCLyLdgPnRJMWukRioQDY&s=10"
+      ],
+      "title": "Denver Museum of Nature & Science. . You may leave believing in dragons. 🐉 Explore Mythic Creatures: Dragons, Unicorns & Mermaids and uncover the science behind the legends.",
+      "link": "https://www.facebook.com/DMNSorg/videos/do-you-believe/1145950147790446/",
+      "date": "6 days ago"
+    },
+    {
+      "author": "TerraGreen",
+      "source": "YouTube",
+      "duration": "17:29",
+      "extensions": [
+        "7.3M+ views "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtRki-YsSbM20DwWMAttLf4TwY9P-5SP4a9M2N493TCneHmp6on29EW-M6s4KK_eQD59P3U5G3-AN0IN4NsF07HvLb3a1b4Q&s"
+      ],
+      "title": "I Got a Pet Dragon... (actually flies)",
+      "link": "https://www.youtube.com/watch?v=57AQNt_WowE",
+      "date": "Aug 4, 2026",
+      "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR7D5rylz4aBJPtGFdgaMNk4nEC1IZKUT7-lw"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Dragons book",
+      "link": "https://www.google.com/search?sca_esv=10ab62e321bfdedb&sxsrf=APpeQnunBhoEZiC3iYxKgGqQc5gwDWp9Eg:1793194136774&q=Dragons+book&sa=X&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dragons+book"
+    },
+    {
+      "block_position": 1,
+      "query": "Dragon games",
+      "link": "https://www.google.com/search?sca_esv=10ab62e321bfdedb&sxsrf=APpeQnunBhoEZiC3iYxKgGqQc5gwDWp9Eg:1793194136774&q=Dragon+games&sa=X&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQ1QJ6BAhJEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dragon+games"
+    },
+    {
+      "block_position": 1,
+      "query": "Dragon movie",
+      "link": "https://www.google.com/search?sca_esv=10ab62e321bfdedb&sxsrf=APpeQnunBhoEZiC3iYxKgGqQc5gwDWp9Eg:1793194136774&q=Dragon+movie&sa=X&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQ1QJ6BAhGEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dragon+movie"
+    },
+    {
+      "block_position": 1,
+      "query": "Dragon toys",
+      "link": "https://www.google.com/search?sca_esv=10ab62e321bfdedb&sxsrf=APpeQnunBhoEZiC3iYxKgGqQc5gwDWp9Eg:1793194136774&q=Dragon+toys&sa=X&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQ1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dragon+toys"
+    },
+    {
+      "block_position": 1,
+      "query": "Dragons store",
+      "link": "https://www.google.com/search?sca_esv=10ab62e321bfdedb&sxsrf=APpeQnunBhoEZiC3iYxKgGqQc5gwDWp9Eg:1793194136774&q=Dragons+store&sa=X&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dragons+store"
+    },
+    {
+      "block_position": 1,
+      "query": "Dragons shop",
+      "link": "https://www.google.com/search?sca_esv=10ab62e321bfdedb&sxsrf=APpeQnunBhoEZiC3iYxKgGqQc5gwDWp9Eg:1793194136774&q=Dragons+shop&sa=X&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dragons+shop"
+    },
+    {
+      "block_position": 1,
+      "query": "Dragons restaurant",
+      "link": "https://www.google.com/search?sca_esv=10ab62e321bfdedb&sxsrf=APpeQnunBhoEZiC3iYxKgGqQc5gwDWp9Eg:1793194136774&q=Dragons+restaurant&sa=X&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dragons+restaurant"
+    },
+    {
+      "block_position": 1,
+      "query": "Dragons tickets",
+      "link": "https://www.google.com/search?sca_esv=10ab62e321bfdedb&sxsrf=APpeQnunBhoEZiC3iYxKgGqQc5gwDWp9Eg:1793194136774&q=Dragons+tickets&sa=X&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dragons+tickets"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Types",
+        "search_link": "https://www.google.com/search?sca_esv=10ab62e321bfdedb&sxsrf=APpeQnunBhoEZiC3iYxKgGqQc5gwDWp9Eg:1793194136774&q=types+of+dragons&sa=X&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQrooIegQIPxAP",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=types+of+dragons"
+      },
+      {
+        "text": "Characteristics",
+        "search_link": "https://www.google.com/search?sca_esv=10ab62e321bfdedb&sxsrf=APpeQnunBhoEZiC3iYxKgGqQc5gwDWp9Eg:1793194136774&q=what+are+the+common+characteristics+of+a+dragon&sa=X&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQrooIegQIPxAe",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+are+the+common+characteristics+of+a+dragon"
+      },
+      {
+        "text": "Origin",
+        "search_link": "https://www.google.com/search?sca_esv=10ab62e321bfdedb&sxsrf=APpeQnunBhoEZiC3iYxKgGqQc5gwDWp9Eg:1793194136774&q=what+is+the+origin+of+the+dragon+myth&sa=X&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQrooIegQIPxAt",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+the+origin+of+the+dragon+myth"
+      },
+      {
+        "text": "Symbolism",
+        "search_link": "https://www.google.com/search?sca_esv=10ab62e321bfdedb&sxsrf=APpeQnunBhoEZiC3iYxKgGqQc5gwDWp9Eg:1793194136774&q=what+is+the+symbolism+of+dragons+in+different+cultures&sa=X&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQrooIegQIPxA8",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+the+symbolism+of+dragons+in+different+cultures"
+      },
+      {
+        "text": "Role in Popular Culture",
+        "search_link": "https://www.google.com/search?sca_esv=10ab62e321bfdedb&sxsrf=APpeQnunBhoEZiC3iYxKgGqQc5gwDWp9Eg:1793194136774&q=what+is+the+role+of+dragons+in+popular+culture&sa=X&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQrooIegQIPxBL",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+the+role+of+dragons+in+popular+culture"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Dragons&sca_esv=10ab62e321bfdedb&sxsrf=APpeQnunBhoEZiC3iYxKgGqQc5gwDWp9Eg:1793194136774&ei=mPjhapPiLuzUkPIPoNLAsAY&start=10&sa=N&sstk=AS6-VmIcWbeDj7W8g9-mjT_LF2m5GHgg1yUhj8PQ6i8Q72VvxZwGpqz5vnM5MR4pdXLq6MyPDGoScIYxvNbXeB7IxtoUQjuU_eMfCA&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQ8NMDegQIOxAS",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Dragons&sca_esv=10ab62e321bfdedb&sxsrf=APpeQnunBhoEZiC3iYxKgGqQc5gwDWp9Eg:1793194136774&ei=mPjhapPiLuzUkPIPoNLAsAY&start=10&sa=N&sstk=AS6-VmIcWbeDj7W8g9-mjT_LF2m5GHgg1yUhj8PQ6i8Q72VvxZwGpqz5vnM5MR4pdXLq6MyPDGoScIYxvNbXeB7IxtoUQjuU_eMfCA&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQ8tMDegQIOxAE",
+      "3": "https://www.google.com/search?q=Dragons&sca_esv=10ab62e321bfdedb&sxsrf=APpeQnunBhoEZiC3iYxKgGqQc5gwDWp9Eg:1793194136774&ei=mPjhapPiLuzUkPIPoNLAsAY&start=20&sa=N&sstk=AS6-VmIcWbeDj7W8g9-mjT_LF2m5GHgg1yUhj8PQ6i8Q72VvxZwGpqz5vnM5MR4pdXLq6MyPDGoScIYxvNbXeB7IxtoUQjuU_eMfCA&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQ8tMDegQIOxAG",
+      "4": "https://www.google.com/search?q=Dragons&sca_esv=10ab62e321bfdedb&sxsrf=APpeQnunBhoEZiC3iYxKgGqQc5gwDWp9Eg:1793194136774&ei=mPjhapPiLuzUkPIPoNLAsAY&start=30&sa=N&sstk=AS6-VmIcWbeDj7W8g9-mjT_LF2m5GHgg1yUhj8PQ6i8Q72VvxZwGpqz5vnM5MR4pdXLq6MyPDGoScIYxvNbXeB7IxtoUQjuU_eMfCA&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQ8tMDegQIOxAI",
+      "5": "https://www.google.com/search?q=Dragons&sca_esv=10ab62e321bfdedb&sxsrf=APpeQnunBhoEZiC3iYxKgGqQc5gwDWp9Eg:1793194136774&ei=mPjhapPiLuzUkPIPoNLAsAY&start=40&sa=N&sstk=AS6-VmIcWbeDj7W8g9-mjT_LF2m5GHgg1yUhj8PQ6i8Q72VvxZwGpqz5vnM5MR4pdXLq6MyPDGoScIYxvNbXeB7IxtoUQjuU_eMfCA&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQ8tMDegQIOxAK",
+      "6": "https://www.google.com/search?q=Dragons&sca_esv=10ab62e321bfdedb&sxsrf=APpeQnunBhoEZiC3iYxKgGqQc5gwDWp9Eg:1793194136774&ei=mPjhapPiLuzUkPIPoNLAsAY&start=50&sa=N&sstk=AS6-VmIcWbeDj7W8g9-mjT_LF2m5GHgg1yUhj8PQ6i8Q72VvxZwGpqz5vnM5MR4pdXLq6MyPDGoScIYxvNbXeB7IxtoUQjuU_eMfCA&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQ8tMDegQIOxAM",
+      "7": "https://www.google.com/search?q=Dragons&sca_esv=10ab62e321bfdedb&sxsrf=APpeQnunBhoEZiC3iYxKgGqQc5gwDWp9Eg:1793194136774&ei=mPjhapPiLuzUkPIPoNLAsAY&start=60&sa=N&sstk=AS6-VmIcWbeDj7W8g9-mjT_LF2m5GHgg1yUhj8PQ6i8Q72VvxZwGpqz5vnM5MR4pdXLq6MyPDGoScIYxvNbXeB7IxtoUQjuU_eMfCA&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQ8tMDegQIOxAO",
+      "8": "https://www.google.com/search?q=Dragons&sca_esv=10ab62e321bfdedb&sxsrf=APpeQnunBhoEZiC3iYxKgGqQc5gwDWp9Eg:1793194136774&ei=mPjhapPiLuzUkPIPoNLAsAY&start=70&sa=N&sstk=AS6-VmIcWbeDj7W8g9-mjT_LF2m5GHgg1yUhj8PQ6i8Q72VvxZwGpqz5vnM5MR4pdXLq6MyPDGoScIYxvNbXeB7IxtoUQjuU_eMfCA&ved=2ahUKEwiTjqTc6NyXAxVsKkQIHSApEGYQ8tMDegQIOxAQ"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dragons&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dragons&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dragons&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dragons&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dragons&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dragons&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dragons&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dragons&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dragons&start=70"
+    }
+  }
+}
